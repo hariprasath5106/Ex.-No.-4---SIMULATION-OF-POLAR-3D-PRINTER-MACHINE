@@ -33,8 +33,7 @@
 
 ## Output:
 
-### Name:
-### Register Number:
-
+### Name: HARI PRASATH S
+### Register Number: 212222240034
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
